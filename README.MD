@@ -1,1 +1,6 @@
-Se espera que, al finalizar esta actividad, el estudiante desarrolle un script en Node.js (con soporte para promesas y async/await) capaz de consumir una API pública, procesar la respuesta, guardar los resultados en formato JSON y evaluar el comportamiento del programa en términos de tiempos de ejecución y manejo de errores de red. El enfoque principal está en el uso adecuado de la Fetch API en Node 18+, el manejo de flujos asíncronos y la estructura organizada de errores. 
+Módulo de Persistencia con JSON y fs/promises
+
+Se espera que, al finalizar esta actividad, el estudiante sea capaz de implementar un módulo de persistencia en 
+TypeScript/Node.js que guarde y lea registros de productos y clientes desde archivos JSON, utilizando el módulo 
+fs/promises. Además, deberá manejar errores con bloques try/catch y validar situaciones comunes que pueden 
+ocurrir durante la escritura y lectura de archivos, garantizando la integridad y consistencia de los datos
