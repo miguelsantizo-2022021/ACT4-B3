@@ -1,7 +1,3 @@
-import { MenúPrincipal } from './menu/menu';
+import { startApp } from './api/server.js';
 
-async function iniciarApp() {
-    await MenúPrincipal.mostrar();
-}
-
-iniciarApp();
+startApp();
